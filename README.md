@@ -4,7 +4,7 @@ In order to better share Go-related job openings in the Denver area, and to lear
 
 Visit the [wiki](https://github.com/WWG-Denver-Boulder/job_board/wiki) for an overview of the project.
 
-Each week we will break up into teams and work on issues related to the PR. Contibutors can take as large or small a role as you are able to.
+Each week we will break up into teams and work on issues related to the project. Contibutors can take as large or small a role as you are able to.
 
 ## Getting Set Up ##
 
