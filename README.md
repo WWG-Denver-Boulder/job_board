@@ -17,6 +17,9 @@ is still in development and suggestions are welcome!
 * `mkdir src && cd src`
 * `mkdir github.com && cd github.com`
 
+### Set up SSH Key for Github (if needed) ###
+* [Github SSH Key](https://help.github.com/enterprise/2.12/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
 ### Clone Repo ###
 * `git clone git@github.com:WWG-Denver-Boulder/job_board.git`
 
