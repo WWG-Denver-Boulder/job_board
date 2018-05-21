@@ -20,8 +20,8 @@ is still in development and suggestions are welcome!
 ### Set up SSH Key for Github (if needed) ###
 * [Github SSH Key](https://help.github.com/enterprise/2.12/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
-### Clone Repo ###
-* `git clone git@github.com:WWG-Denver-Boulder/job_board.git`
+### Fork Repo ###
+*  Go to https://github.com/WWG-Denver-Boulder/job_board and click the "Fork" button. If you already have a fork, please make sure it's current with. Clone your fork into your go path. 
 
 Your path should look like: `~/go/src/github.com/job_board`
 
